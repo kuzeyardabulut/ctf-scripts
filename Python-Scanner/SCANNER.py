@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import os
-hedefip = input("Hedef İp Adresini Giriniz: ")
+hedefip = input("Ip Address: ")
 os.system("apt-get install figlet")
 os.system("apt-get install knockpy")
 os.system("apt-get install gobuster")
