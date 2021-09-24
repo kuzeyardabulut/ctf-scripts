@@ -3,7 +3,7 @@ A tool with which we can easily scan for vulnerabilities.
 
 
 # Pre-requisites For Kali Linux 🚨
-◯Python >= v3.x.x
+◯ Python >= v3.x.x
 
 
 # About Me ! 
